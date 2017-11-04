@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jQueryTableWebForms", "jQueryTableWebForms\jQueryTableWebForms.csproj", "{45322C9A-1732-4FCB-AF20-A29BB2FA7499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jQueryTableMVC", "jQueryTableMVC\jQueryTableMVC.csproj", "{7969D6EC-524F-4A83-8FD6-02AB7267CBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45322C9A-1732-4FCB-AF20-A29BB2FA7499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45322C9A-1732-4FCB-AF20-A29BB2FA7499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45322C9A-1732-4FCB-AF20-A29BB2FA7499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45322C9A-1732-4FCB-AF20-A29BB2FA7499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7969D6EC-524F-4A83-8FD6-02AB7267CBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7969D6EC-524F-4A83-8FD6-02AB7267CBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7969D6EC-524F-4A83-8FD6-02AB7267CBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7969D6EC-524F-4A83-8FD6-02AB7267CBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {586CD1D3-6CA3-4C23-A00D-BC32D3CF64AC}
+	EndGlobalSection
+EndGlobal
